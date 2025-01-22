@@ -14,4 +14,4 @@
        uses: actions/upload-artifact@v4
        with:
          name: Premier graphique
-         path: ./output/
+         path: ./g1.svg

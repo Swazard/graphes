@@ -1,2 +1,3 @@
 *.png
 *.svg
+!icon_router.png

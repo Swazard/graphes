@@ -1,6 +1,6 @@
 graph {
-node [shape="star" style="filled" fillcolor="aqua"];
-edge [fontsize="20pt" color="red"];
+node [image="./icon_router.png" shape="none" width="1" height="0.5" fixedsize=true fontsize="12pt" fontcolor="red"];
+edge [fontsize="10pt" color="red" fontcolor="blue"];
 
 H [pos="4,8!"];
 B [pos="7,7!"];

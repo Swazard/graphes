@@ -1,3 +1,6 @@
 *.png
 *.svg
 !icon_router.png
+*.zip
+*.json
+*.txt
